@@ -1,2 +1,2 @@
 # My-project
-Thise is my project
+Thise is my project  & first time repository crater.
